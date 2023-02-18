@@ -1,0 +1,5 @@
+﻿  PongGame.cpp
+D:\Downloads\Pong Game (2)\Pong Game\Pong Game\PongGame.cpp(398,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Pong Game.vcxproj -> D:\Downloads\Pong Game (2)\Pong Game\bin\Pong Gamed.exe
